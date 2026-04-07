@@ -15,28 +15,33 @@ With features like **one-tap calling** and an **SOS button**, users can quickly 
 ---
 
 ### **✨ Features**
+Shake to Trigger SOS
 
-#### **🔹 Save Emergency Contacts**
+Voice Activation
 
-* Add, edit, and delete important contacts easily.
+Emergency Message Customization
 
-#### **🔹 One-Tap Calling**
+Real-Time Location Tracking
 
-* Instantly call saved contacts with a single tap.
+Flashlight & Alarm Activation
 
-#### **🔹 SOS Button**
+Call Recording (Optional)
 
-* Quickly call a primary emergency contact or send alerts.
+Nearby Services Finder
 
-#### **🔹 Location Sharing (Optional)**
+Lock Screen SOS Access
 
-* Share real-time location via SMS with selected contacts.
+Contact Priority Levels
 
-#### **🔹 Simple User Interface**
+Offline Mode Support
 
-* Clean and easy-to-use design for quick access.
+Battery Status Alert
 
----
+Dark Mode UI
+
+Backup & Restore Contacts
+
+Fake Call Feature
 
 ### **🛠️ Tech Stack**
 
