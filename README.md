@@ -1,8 +1,4 @@
-────────────────────────────────────────────
-**📱 EMERGENCY CONTACT APP**
-────────────────────────────────────────────
-
-### **📌 Project Title**
+### **📱 Project Title**
 
 **Emergency Contact App**
 
