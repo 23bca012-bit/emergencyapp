@@ -15,33 +15,33 @@ With features like **one-tap calling** and an **SOS button**, users can quickly 
 ---
 
 ### **✨ Features**
-Shake to Trigger SOS
+1.Shake to Trigger SOS
 
-Voice Activation
+2.Voice Activation
 
-Emergency Message Customization
+3.Emergency Message Customization
 
-Real-Time Location Tracking
+4.Real-Time Location Tracking
 
-Flashlight & Alarm Activation
+5.Flashlight & Alarm Activation
 
-Call Recording (Optional)
+6.Call Recording (Optional)
 
-Nearby Services Finder
+7.Nearby Services Finder
 
-Lock Screen SOS Access
+8.Lock Screen SOS Access
 
-Contact Priority Levels
+9.Contact Priority Levels
 
-Offline Mode Support
+10.Offline Mode Support
 
-Battery Status Alert
+11.Battery Status Alert
 
-Dark Mode UI
+12.Dark Mode UI
 
-Backup & Restore Contacts
+13.Backup & Restore Contacts
 
-Fake Call Feature
+14.Fake Call Feature
 
 ### **🛠️ Tech Stack**
 
